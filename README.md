@@ -18,6 +18,8 @@ An interactive 5-page Power BI dashboard analyzing the impact of AI tools on stu
 - Bar chart: GPA by Prompt Engineering skill level (Beginner → Advanced)
 - Bar chart: Skill Retention Score by AI use case
 
+![Page 1 - Overview](screenshots/1 AI Impact on Academic Performance.png)
+
 ### Page 2 — Student Profile & Demographics
 - Donut chart: student distribution by major (STEM, Business, Humanities, Medical, Arts)
 - Bar chart: student count by year of study (Freshman → Graduate)
