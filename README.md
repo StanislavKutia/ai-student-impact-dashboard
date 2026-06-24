@@ -18,25 +18,33 @@ An interactive 5-page Power BI dashboard analyzing the impact of AI tools on stu
 - Bar chart: GPA by Prompt Engineering skill level (Beginner → Advanced)
 - Bar chart: Skill Retention Score by AI use case
 
-![Page 1 - Overview](screenshots/1 AI Impact on Academic Performance.png)
+![Page 1 - Overview](screenshots/1_AI_Impact_on_Academic_Performance.png)
 
 ### Page 2 — Student Profile & Demographics
 - Donut chart: student distribution by major (STEM, Business, Humanities, Medical, Arts)
 - Bar chart: student count by year of study (Freshman → Graduate)
 - Bar chart: GPA improvement — Paid vs Free AI subscriptions
 
+![Page 2 - Student Profile](screenshots/2_Student_Profile_&_Demographics.png)
+
 ### Page 3 — Institutional Policy Analysis
 - Bar chart: average GPA by institutional AI policy
 - Bar chart: skill retention score by institutional AI policy
 - Stacked bar chart: burnout risk distribution across majors
+
+![Page 3 - Institutional Policy](screenshots/3_Institutional_Policy_Analysis.png)
 
 ### Page 4 — Burnout & Anxiety Insights
 - Scatter plot: traditional study hours vs GPA growth by burnout level
 - Donut chart: burnout risk level distribution (High / Medium / Low)
 - Bar chart: exam anxiety score by major category
 
+![Page 4 - Burnout & Anxiety](screenshots/4_Burnout_&_Anxiety_Insights.png)
+
 ### Page 5 — Filters
 - Interactive slicers: Year of Study, Major Category, Burnout Risk Level, Institutional Policy
+
+![Page 5 - Filters](screenshots/5_Filters.png)
 
 ---
 
