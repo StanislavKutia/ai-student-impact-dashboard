@@ -236,7 +236,7 @@ After creating these columns in Power Query, each text column was linked to its 
 
 ## 🚀 How to Open
 
-1. Download the `.pbip` file from this repository
+1. Download the `.pbix` file from this repository
 2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 3. The dataset is embedded — no additional setup required
 4. Use **Page 5 (Filters)** to slice data across all pages
@@ -245,7 +245,7 @@ After creating these columns in Power Query, each text column was linked to its 
 
 ## 👤 Author
 
-**[Your Name]**
+**Stanislav Kutia**
 - 📧 kutia.work@gmail.com
 - 💼 Aspiring Data Analyst | Power BI | SQL | Excel
 
